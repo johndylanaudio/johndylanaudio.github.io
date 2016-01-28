@@ -29,7 +29,7 @@ Deluxe editions of our singles include the following:
 
 1. All A-side/B-side songs in 24-bit/96kHz lossless FLAC format
 2. All of the bonus tracks from that single in lossless FLAC format
-3. The multi-track masters for the A-side/B-side songs
+3. The [multi-track masters](#multi-track-masters) for the A-side/B-side songs
 4. MP3 files of all of the rough mixes we ever did for the A-side/B-side songs on that single, so you can see how the song progressed. **(Exclusive to Deluxe Editions)**
 5. Digital copies of the artwork masters for that single. **(Exclusive to Deluxe Editions)** 
 
