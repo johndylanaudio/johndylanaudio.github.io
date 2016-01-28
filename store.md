@@ -13,11 +13,11 @@ FLAC files.
 
 ## Multi-track masters
 
-You can purchase the multi-track masters for our music in [Open Media Framework (OMF) 
-format](https://en.wikipedia.org/wiki/Open_Media_Framework_Interchange).
-**You are free to create samples or remixes from these masters and sell the results commercially
-without paying us royalties or asking permission.** For more information, see [the Open Source 
-Music Approach](/opensource/)
+You can purchase the multi-track masters for our music. These have every track isolated, and also
+have the effects channels and buss channels isolated. They even include the MIDI files that were
+captured from V-Drums and keyboards. As good as sitting at the DAW with John; these are all
+zero-snapped WAVs that include notes on what the bpm of the song is, and how many beats click
+by before the song starts. Import into your fave mixing environment, and start ripping it up.
 
 [SELLFY LINKZ]
 
@@ -28,26 +28,13 @@ Note: All masters were recorded in 24-bit/96khz.
 Deluxe editions of our singles include the following:
 
 1. All A-side/B-side songs in 24-bit/96kHz lossless FLAC format
-2. All of the bonus tracks from the singles in lossless FLAC format
-3. The OMF files for all our new songs in 24-bit/96kHz, so so you can easily remix to your heart's content
+2. All of the bonus tracks from that single in lossless FLAC format
+3. The multi-track masters for the A-side/B-side songs
 4. MP3 files of all of the rough mixes we ever did for the A-side/B-side songs on that single, so you can see how the song progressed. **(Exclusive to Deluxe Editions)**
-5. Digital copies of the artwork masters for that release. **(Exclusive to Deluxe Editions)**
-
-It's certainly the best value for how much stuff you get. 
+5. Digital copies of the artwork masters for that single. **(Exclusive to Deluxe Editions)** 
 
 [SELLFY LINK]
 
-## Merch
-
-- Sells Posters, Clothing, Decor, Toys
-- Space for users to contribute their remixes and homemade merch/videos
-- Accept user reviews of fan-contributed stuff
-- Have fan contributors sign up and give me their PayPal email address first, then invoice them on PayPal later for 30%
-- Fan-made digital assets must be hosted by me, then I push them 70% of sales revenue
-- Include live recordings/video, zines that interview us, etc
-- Digital store with HD vids, 24-bit sound, mp3 version, FLAC version
-- Explain our no-stream policy
-- Physical copies too
 
 ## Pre-Sungods projects
 
