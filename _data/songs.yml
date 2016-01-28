@@ -1,0 +1,56 @@
+- track:
+  id: someone-to-lose-you
+  title: "Someone to Lose You"
+  year: 2015
+  lyrics: "love, ephemera<br/>
+all it could ever be<br/>
+oblivion that you don't want to see<br/>
+tell me one time all that i'm going to do<br/>
+if i tell myself i'll never be parted from you<br/>
+<br/>
+well it's the 21st century<br/>
+i think i'd better stop telling myself<br/>
+together is never gonna stop<br/>
+<br/>
+maybe i'll leave you, or maybe you'll leave me<br/>
+or part with a kiss before succumbing<br/>
+glad that you're here<br/>
+maybe you can help me see how to make my peace<br/>
+with all that i will never be"
+- track: 
+  id: if-i-could-learn-to-love-myself
+  title: "(If I Could Learn) To Love Myself"
+  lyrics: "leaving on time, wake and then rise<br/>
+never worried that i'm putting you through hell<br/>
+all of this and more i'll do<br/>
+if i can learn to love myself<br/>
+<br/>
+be a good girl, you are my world<br/>
+doubts have been furled and put up on the shelf<br/>
+there'll be time for me and you<br/>
+if i can learn to love myself<br/>"
+- track:
+  id: someone-to-lose-you-bass-only
+  title: Someone to Lose You (Bass Only)
+  isolation_of: someone-to-lose-you
+  has_lyrics: no
+- track:
+  id: someone-to-lose-you-karaoke-instrumental
+  title: Someone to Lose You (Karaoke/Instrumental)
+  isolation_of: someone-to-lose-you
+  has_lyrics: no
+- track:
+  id: someone-to-lose-you-vocals-only-a-capella
+  title: Someone to Lose You (Vocals Only/A Capella)
+  isolation_of: someone-to-lose-you
+  has_lyrics: yes
+- track:
+  id: someone-to-lose-you-guitar-only
+  title: Someone to Lose You (Guitar Only)
+  isolation_of: someone-to-lose-you
+  has_lyrics: no
+- track:
+  id: someone-to-lose-you-drums-only
+  title: Someone to Lose You (Drums Only)
+  isolation_of: someone-to-lose-you
+  has_lyrics: no

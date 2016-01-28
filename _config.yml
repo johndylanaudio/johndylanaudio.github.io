@@ -1,0 +1,16 @@
+name: The Sungods
+markdown: kramdown
+kramdown:
+  input: GFM
+  html_to_native: true
+  hard_wrap: false
+baseurl: /
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "alpha"
+
+permalink: pretty
