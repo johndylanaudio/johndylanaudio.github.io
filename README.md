@@ -2,7 +2,9 @@
 
 To edit anything you see here without having to 
 run anything locally, just visit our GitHub 
-repo at: [https://github.com/thesungods/thesungods.github.io](https://github.com/thesungods/thesungods.github.io).
+repo at: [https://github.com/thesungods/thesungods.github.io](https://github.com/thesungods/thesungods.github.io)
+and click the pencil icon to edit stuff. Or, as you're browsing the site,
+click the GitHub icon in the footer. 
 
 To see what your changes look like before sending
 us the pull request that contains your changes,
@@ -56,7 +58,11 @@ Your copy of the site will then be viewable at: [http://0.0.0.0:4000](http://0.0
 If you're a bit rusty with git/GitHub, you might wanna read
 [this](http://readwrite.com/2013/10/02/github-for-beginners-part-2) for a refresher.
 
+The above instructions work on Mac and Linux.
+[These instructions ](https://martinbuberl.com/blog/setup-jekyll-on-windows-and-host-it-on-github-pages/)
+might help for Windows users. 
+
 ## Thank you!
 
-Thank you for anything you can do to help us out. The Sungods is an
-[open-source music project](http://thesungods.co/opensource/) and we love you. 
+Thank you for anything you can do to help us out! The Sungods is an
+[open-source music project](http://thesungods.co/opensource/) and we love you.
