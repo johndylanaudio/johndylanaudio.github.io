@@ -19,7 +19,7 @@ captured from V-Drums and keyboards. As good as sitting at the DAW with John; th
 zero-snapped WAVs that include notes on what the bpm of the song is, and how many beats click
 by before the song starts. Import into your fave mixing environment, and start ripping it up.
 
-[SELLFY LINKZ]
+<a href="https://sellfy.com/p/62vQ/" id="62vQ" class="sellfy-buy-button">Buy now</a><script type="text/javascript" src="https://sellfy.com/js/api_buttons.js"></script>
 
 Note: All masters were recorded in 24-bit/96khz.
 
