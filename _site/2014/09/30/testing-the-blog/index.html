@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>{{ page.title }}</title>
+		<title>Testing the blog</title>
         <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
 		<meta name="google-site-verification" content="pwhIRtC6OvAwdWhnApllvWK00pF9m6NGGwjCVIlMRTU" />
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -94,24 +94,38 @@
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
-					<h2>{{ page.title }}</h2>
-					{% if page.description %}<p>{{ page.description }}</p>{% endif %}
+					<h2>Testing the blog</h2>
+					
 				</header>
 				<div class="box">
-				{% if page.image %}<span class="image featured"><img src="{{ page.image }}" /></span>{% endif %}
-				{% if page.social %}
-				<div id="socialcontainer">
-				<ul id="socialstuff">
-           		
-           		<li class="socialheader">Upcoming Shows</li>
-                <li style="margin-bottom: 20px; margin-top: -32px">
-                	<a href="http://www.songkick.com/artists/8692539" class="songkick-widget" data-theme="light" data-track-button="on" data-detect-style="true" data-background-color="transparent"></a>
-<script src="//widget.songkick.com/widget.js"></script>
-                </li>
-                </ul>
-                </div>
-				{% endif %}
-				<p>{{ content }}</p>
+				
+				
+				<p><p>This blog post is just trying out the whole “blog” functionality that is 
+baked in to Jekyll. I guess we’ll see how this goes.</p>
+
+<p>I should probably add Disqus and social media crap to this thing.</p>
+
+<p>Whoopdee doo, Delilah!</p>
+
+<p>I’m a free man!</p>
+
+
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = The Sungods'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
+</p>
 				</div>
 			</section>
 
@@ -124,10 +138,10 @@
 					<li><a href="https://www.instagram.com/explore/tags/thesungodsband/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 					<li><a href="https://www.flickr.com/thesungods" class="icon fa-flickr"><span class="label">Flickr</span></a></li>
 					<li><a href="https://www.youtube.com/channel/UCAgntbIlnXuy4FfX1u6FRBA" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
-					<li><a href="https://github.com/thesungods/thesungods.github.io/edit/master/{{ page.path }}" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a href="https://github.com/thesungods/thesungods.github.io/edit/master/_posts/2014-09-30-testing-the-blog.md" class="icon fa-github"><span class="label">Github</span></a></li>
 				</ul>
 				<ul class="copyright">
-					<li>&copy; {{ 'now' | date: "%Y" }} The Sungods. </li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					<li>&copy; 2016 The Sungods. </li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
 			</footer>
     </body>
