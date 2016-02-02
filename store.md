@@ -22,11 +22,17 @@ captured from V-Drums and keyboards. As good as sitting at the DAW with John; th
 zero-snapped WAVs that include notes on what the bpm of the song is, and how many beats click
 by before the song starts. Import into your fave mixing environment, and start ripping it up.
 
-| Song                            |      |
-|---------------------------------|------|
-| (If I Can Learn) To Love Myself | SELLFY LINK |
-| Someone to Lose You             | SELLFY LINK |
-|                                 |      |
+<table>
+  <tr>
+    <td>(If I Can Learn) To Love Myself</td>
+    <td>link</td>
+  </tr>
+  <tr>
+    <td>Someone to Lose You</td>
+    <td>link</td>
+  </tr>
+</table>
+
 Note: All masters were recorded in 24-bit/96khz.
 
 ## Deluxe Editions
