@@ -34,7 +34,7 @@
 	}
 
 		a:hover {
-			border-bottom-color: transparent;
+			border-bottom: 1px dotted;
 		}
 
 	strong, b {
@@ -1045,6 +1045,7 @@
 						line-height: 1.95em;
 						padding: 0 1em;
 						border-radius: 6px;
+						font-size: 10px;
 					}
 
 					#header nav > ul > li a:not(.button) {
