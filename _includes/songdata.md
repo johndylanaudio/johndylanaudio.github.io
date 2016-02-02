@@ -11,7 +11,7 @@
 {% for release in site.data.appearances %}
   {% for track in release.releasetracks %}
     {% if track.id == song_id %}
-	  {% capture new_appearance %}<a href="/releases/{{ release.id }}">{{ release.title }}</a><br/>{% endcapture %}
+	  {% capture new_appearance %}<a href="/discography/{{ release.id }}">{{ release.title }}</a><br/>{% endcapture %}
 	  {% capture appears_on %}{{ appears_on }}{{ new_appearance }}{% endcapture %}
     {% endif %}
   {% endfor %}
@@ -27,7 +27,7 @@
 		{% if has_lyrics %}{% assign lyrics=track.lyrics %}{% endif %}
 	  {% endif %}
 	{% endfor %}
-Multi-track isolation from the song "<a href="/tracks/{{ isolation_of }}">{{ isolation_title }}</a>."
+Multi-track isolation from the song "<a href="/discography/{{ isolation_of }}">{{ isolation_title }}</a>."
 {% endif %}
 
 {% if has_lyrics != false %}
@@ -44,7 +44,7 @@ Multi-track isolation from the song "<a href="/tracks/{{ isolation_of }}">{{ iso
 
 {% for track in site.data.songs %}
   {% if track.isolation_of == song_id %}
-    {% capture new_isolation %}<li><a href="/tracks/{{ track.id }}">{{ track.title }}</a></li>{% endcapture %}
+    {% capture new_isolation %}<li><a href="/discography/{{ track.id }}">{{ track.title }}</a></li>{% endcapture %}
 	{% capture isolations %}{{ isolations }}{{ new_isolation }}{% endcapture %}
   {% endif %}
 {% endfor %}
