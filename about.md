@@ -328,15 +328,3 @@ And that's how the project operates.
 I just thought a nice part of getting into a band can be getting to know the people
 in it. You've heard the story of my musical life if you've read all the above. Here's
 just a few things I wanted to share. 
-
-## Playlists
-
-If you'd like a sense of my taste in music, here are some playlists for your consideration.
-
-#### Best of 2014:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLe1o0Y8oSo_DSnBVCsQnnQlXwHcEjvrP-" frameborder="0" allowfullscreen></iframe>
-
-#### Best of 2015:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLe1o0Y8oSo_D15xH5WyKaFqlNhuy83H8V" frameborder="0" allowfullscreen></iframe>
