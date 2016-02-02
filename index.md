@@ -59,7 +59,7 @@ $(document).ready(function(){
     }
     if (doFooter)
     {
-      output.push('<p style="font-size: 14px">Posted to <a href="http://thesungods.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/thesungods">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fthesungods">Reblog Post</a></p>')
+      output.push('<p style="font-size: 12px">Posted to <a href="http://thesungods.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/thesungods">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fthesungods">Reblog Post</a></p>')
     }
   }
   $("#blogdiv").html(output.join("\n"));
