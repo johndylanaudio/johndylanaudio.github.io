@@ -10,8 +10,7 @@ nosocial: true
 
 ## Music
 
-We currently have the following music releases for sale. Bandcamp downloads include HD audio 24-bit
-FLAC files.
+We currently have the following music releases for sale. 
 
 {% for release in site.data.appearances %}<a href="/releases/{{ release.id }}">{{ release.title }}</a><br/>{% endfor %}
 
@@ -23,8 +22,11 @@ captured from V-Drums and keyboards. As good as sitting at the DAW with John; th
 zero-snapped WAVs that include notes on what the bpm of the song is, and how many beats click
 by before the song starts. Import into your fave mixing environment, and start ripping it up.
 
-<a href="https://sellfy.com/p/62vQ/" id="62vQ" class="sellfy-buy-button in-new-page" target="_blank">Buy now</a><script type="text/javascript" src="https://sellfy.com/js/api_buttons.js"></script>
-
+| Song                            |      |
+|---------------------------------|------|
+| (If I Can Learn) To Love Myself | SELLFY LINK |
+| Someone to Lose You             | SELLFY LINK |
+|                                 |      |
 Note: All masters were recorded in 24-bit/96khz.
 
 ## Deluxe Editions
