@@ -62,6 +62,3 @@ of them, and you are free to release the results commercially. For more informat
 </ul>
 
 {% endif %}
-
-<< <a href="/tracks/">Back to Tracks List</a><br/>
-<< <a href="/releases/">Back to Release List</a>

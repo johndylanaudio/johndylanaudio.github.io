@@ -23,6 +23,3 @@
 <ol>
 {{ tracklist }}
 </ol>
-
-<< <a href="/tracks/">Back to Tracks List</a><br/>
-<< <a href="/releases/">Back to Release List</a>
