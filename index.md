@@ -20,36 +20,45 @@ $(document).ready(function(){
     if (tumblr_api_read['posts'][i]["type"]=="video") 
     {
       // video post
-      if (tumblr_api_read['posts'][i]['video-caption'].indexOf("blockquote") < 0) {
+      if (tumblr_api_read['posts'][i]['video-caption'].indexOf("blockquote") < 0)
+      {
         output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['video-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
         output.push(tumblr_api_read['posts'][i]['video-player']);
         doFooter=true;
       }
-    } else if (tumblr_api_read['posts'][i]["type"]=="photo")
+    } 
+    else if (tumblr_api_read['posts'][i]["type"]=="photo")
     {
       // photo post
-      if (tumblr_api_read['posts'][i]['photo-caption'].indexOf("blockquote") < 0) {
+      if (tumblr_api_read['posts'][i]['photo-caption'].indexOf("blockquote") < 0)
+      {
         output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['photo-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
         output.push('<a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '"><img src="' + tumblr_api_read['posts'][i]['photo-url-400'] + '" border="0"></a>');
         doFooter=true;
       }
-    } else if (tumblr_api_read['posts'][i]["type"]=="audio")
+    }
+    else if (tumblr_api_read['posts'][i]["type"]=="audio")
     {
       // audio post
-      if (tumblr_api_read['posts'][i]['audio-caption'].indexOf("blockquote") < 0) {
+      if (tumblr_api_read['posts'][i]['audio-caption'].indexOf("blockquote") < 0)
+      {
         output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['audio-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
         output.push(tumblr_api_read['posts'][i]['audio-player']);
         doFooter=true;
       }
-    } else {
+    } 
+    else 
+    {
       // regular post
-      if (tumblr_api_read['posts'][i]['regular-body'].indexOf("blockquote")<0) {
+      if (tumblr_api_read['posts'][i]['regular-body'].indexOf("blockquote")<0)
+      {
         output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
         output.push(tumblr_api_read['posts'][i]['regular-body']);
         doFooter=true;
       }
     }
-    if (doFooter) {
+    if (doFooter)
+    {
       output.push('<p style="font-size: 14px">Posted to <a href="http://thesungods.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/thesungods">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fthesungods">Reblog Post</a></p>')
     }
   }
