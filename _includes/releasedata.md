@@ -5,7 +5,7 @@
 	{% for releasetrack in release.releasetracks %}
 		{% for track in site.data.songs %}
 			{% if track.id == releasetrack.id %}
-				{% capture new_track %}<li><a href="/tracks/{{ track.id }}">{{ track.title }}</a></li>{% endcapture %}
+				{% capture new_track %}<li><a href="/discography/{{ track.id }}">{{ track.title }}</a></li>{% endcapture %}
 				{% capture tracklist %}{{ tracklist }}
 {{ new_track }}{% endcapture %}
 			{% endif %}
