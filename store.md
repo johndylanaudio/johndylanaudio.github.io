@@ -24,12 +24,12 @@ by before the song starts. Import into your fave mixing environment, and start r
 
 <table>
   <tr>
-    <td>(If I Can Learn) To Love Myself</td>
-    <td>link</td>
+    <td>Someone to Lose You</td>
+    <td>TBD</td>
   </tr>
   <tr>
-    <td>Someone to Lose You</td>
-    <td>link</td>
+    <td>(If I Can Learn) To Love Myself</td>
+    <td>TBD</td>
   </tr>
 </table>
 
