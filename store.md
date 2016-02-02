@@ -12,7 +12,9 @@ nosocial: true
 
 We currently have the following music releases for sale. 
 
-{% for release in site.data.appearances %}<a href="/releases/{{ release.id }}">{{ release.title }}</a><br/>{% endfor %}
+<table>
+{% for release in site.data.appearances %}<tr><td><a href="/discography/{{ release.id }}">{{ release.title }}</a></td><td>TBD</td></tr>{% endfor %}
+</table>
 
 ## Multi-track masters
 
