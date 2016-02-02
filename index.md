@@ -19,8 +19,11 @@ $(document).ready(function(){
     if (tumblr_api_read['posts'][i]["type"]=="video") 
     {
       // video post
-      output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['video-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
-      output.push(tumblr_api_read['posts'][i]['video-player']);
+      if (tumblr_api_read['posts'][i]['video-caption'].indexOf("blockquote") < 0) {
+        output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['video-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
+        output.push(tumblr_api_read['posts'][i]['video-player']);
+        doFooter=true;
+      }
     } else if (tumblr_api_read['posts'][i]["type"]=="photo")
     {
       // photo post
