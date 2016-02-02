@@ -22,7 +22,7 @@ captured from V-Drums and keyboards. As good as sitting at the DAW with John; th
 zero-snapped WAVs that include notes on what the bpm of the song is, and how many beats click
 by before the song starts. Import into your fave mixing environment, and start ripping it up.
 
-<table>
+<!-- table>
   <tr>
     <td>Someone to Lose You</td>
     <td><a href="https://sellfy.com/p/oNuz/" target="_blank">$0.99 USD</a></td>
@@ -31,7 +31,7 @@ by before the song starts. Import into your fave mixing environment, and start r
     <td>(If I Can Learn) To Love Myself</td>
     <td><a href="https://sellfy.com/p/62vQ/" target="_blank">$0.99 USD</a></td>
   </tr>
-</table>
+</table -->
 
 Note: All masters were recorded in 24-bit/96khz.
 
