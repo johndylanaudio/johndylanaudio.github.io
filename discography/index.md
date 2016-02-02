@@ -3,6 +3,12 @@ title: Release List
 description: Every release we've put out.
 ---
 
+## Discography
+
+A complete listing of every track we've released -- and where to get it.
+
+{% include jswidgets.html %}{{ pagetoc }}
+
 ## Release List
 
 <table>
