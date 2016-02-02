@@ -4,6 +4,8 @@ description: Because even GY!BE sells t-shirts.
 nosocial: true
 ---
 
+{% include jswidgets.html %}{{ pagetoc }}
+
 ## Music
 
 We currently have the following music releases for sale. Bandcamp downloads include HD audio 24-bit
@@ -35,6 +37,12 @@ Deluxe editions of our singles include the following:
 
 [SELLFY LINK]
 
+## Sell Your Stuff!
+
+Do you have some merch you'd like to sell on our site? You can [contact us](/contact),
+fill out [the form that lets you add stuff to our store](https://docs.google.com/forms/d/1TI12r-L-9Vha2bnLbB9VJc8owg_xGVlVQDrCUTayHhM/viewform),
+or just send us a pull-request on GitHub with edits that add your wares. We would love
+to help!
 
 ## Pre-Sungods projects
 
