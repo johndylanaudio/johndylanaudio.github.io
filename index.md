@@ -36,7 +36,7 @@ $(document).ready(function(){
     } else if (tumblr_api_read['posts'][i]["type"]=="audio")
     {
       // audio post
-      if (tumblr_api_read['posts'][i]['photo-caption'].indexOf("blockquote") < 0) {
+      if (tumblr_api_read['posts'][i]['audio-caption'].indexOf("blockquote") < 0) {
         output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['audio-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
         output.push(tumblr_api_read['posts'][i]['audio-player']);
         doFooter=true;
@@ -52,7 +52,7 @@ $(document).ready(function(){
     if (doFooter) {
       output.push('<p style="font-size: 14px">Posted to <a href="http://thesungods.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/thesungods">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fthesungods">Reblog Post</a></p>')
     } else { 
-      --i; 
+      i=i-1; 
     }
   }
   $("#blogdiv").html(output.join("\n"));
