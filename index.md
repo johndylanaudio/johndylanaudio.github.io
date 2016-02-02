@@ -14,7 +14,7 @@ to get acquainted quickly, try reading the [bio](/about) or watching some [video
 <script language="javascript">
 $(document).ready(function(){
   var output = new Array();
-  var postLimit = (tumblr_api_read['posts'].length > 5) ? 5 : tumblr_api_read['posts'].length;
+  var postLimit = (tumblr_api_read['posts'].length > 25) ? 25 : tumblr_api_read['posts'].length;
   for(i=0;i<postLimit;i++){
     var doFooter=false;
     if (tumblr_api_read['posts'][i]["type"]=="video") 
