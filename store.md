@@ -4,6 +4,8 @@ description: Because even GY!BE sells t-shirts.
 nosocial: true
 ---
 
+## Store
+
 {% include jswidgets.html %}{{ pagetoc }}
 
 ## Music
