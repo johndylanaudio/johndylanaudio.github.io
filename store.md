@@ -24,6 +24,9 @@ by before the song starts. Import into your fave mixing environment, and start r
 
 <table>
   <tr>
+    <th>Song</th>
+  </tr>
+  <tr>
     <td>Someone to Lose You</td>
     <td><a href="https://sellfy.com/p/oNuz/" target="_blank">$0.99 USD</a></td>
   </tr>
