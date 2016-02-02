@@ -4,7 +4,13 @@ description: Every release we've put out.
 ---
 
 ## Release List
-{% for release in site.data.appearances %}<a href="/discography/{{ release.id }}">{{ release.title }}</a><br/>{% endfor %}
+
+<table>
+{% for release in site.data.appearances %}<tr><td><a href="/discography/{{ release.id }}">{{ release.title }}</a></td></tr>{% endfor %}
+</table>
 
 ## Track List
-{% for track in site.data.songs %}<a href="/discography/{{ track.id }}">{{ track.title }}</a><br/>{% endfor %}
+
+<table>
+{% for track in site.data.songs %}<tr><td><a href="/discography/{{ track.id }}">{{ track.title }}</a></td></tr>{% endfor %}
+</table>
