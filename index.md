@@ -23,7 +23,7 @@ $(document).ready(function(){
     } else if (tumblr_api_read['posts'][i]["type"]=="photo")
     {
       // photo post
-      output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['photo-caption'].replace("<p>","").replace("</p>","") + '</a></h3>');
+      output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['photo-caption'].replace("<p>","").replace("</p>","") + '</a></h3>').replace("<blockquote>","").replace("</blockquote>","");
       output.push('<a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '"><img src="' + tumblr_api_read['posts'][i]['photo-url-400'] + '" border="0"></a>');
     } else if (tumblr_api_read['posts'][i]["type"]=="audio")
     {
