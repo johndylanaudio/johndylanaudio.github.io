@@ -25,11 +25,11 @@ by before the song starts. Import into your fave mixing environment, and start r
 <table>
   <tr>
     <td>Someone to Lose You</td>
-    <td>TBD</td>
+    <td><a href="https://sellfy.com/p/oNuz/" id="oNuz" class="sellfy-buy-button in-new-page" target="_blank">Download</a><script type="text/javascript" src="https://sellfy.com/js/api_buttons.js"></script></td>
   </tr>
   <tr>
     <td>(If I Can Learn) To Love Myself</td>
-    <td>TBD</td>
+    <td><a href="https://sellfy.com/p/62vQ/" id="62vQ" class="sellfy-buy-button in-new-page" target="_blank">Download</a><script type="text/javascript" src="https://sellfy.com/js/api_buttons.js"></script></td>
   </tr>
 </table>
 
