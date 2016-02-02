@@ -34,8 +34,10 @@ $(document).ready(function(){
       output.push(tumblr_api_read['posts'][i]['audio-player']);
     } else {
       // regular post
-    output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
-    output.push(tumblr_api_read['posts'][i]['regular-body']);
+      if (tumblr_api_read['posts'][i]['regular-body'].indexOf("blockquote")<0) {
+        output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
+        output.push(tumblr_api_read['posts'][i]['regular-body']);
+      }
     }
     output.push('<p style="font-size: 14px">Posted to <a href="http://thesungods.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/thesungods">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fthesungods">Reblog Post</a></p>')
     
