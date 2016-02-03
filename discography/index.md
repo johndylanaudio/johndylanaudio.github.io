@@ -7,16 +7,18 @@ description: Every release we've put out.
 
 A complete listing of every track we've released -- and where to get it.
 
-{% include jswidgets.html %}{{ pagetoc }}
-
 ## Release List
 
 <table>
 {% for release in site.data.appearances %}<tr><td><a href="/discography/{{ release.id }}">{{ release.title }}</a></td></tr>{% endfor %}
 </table>
 
-## Track List
+## Song List
 
 <table>
-{% for track in site.data.songs %}<tr><td><a href="/discography/{{ track.id }}">{{ track.title }}</a></td></tr>{% endfor %}
+{% for track in site.data.songs %}
+  {% if not track.isolation_of %}
+    <tr><td><a href="/discography/{{ track.id }}">{{ track.title }}</a></td></tr>
+  {% endif %}
+{% endfor %}
 </table>
