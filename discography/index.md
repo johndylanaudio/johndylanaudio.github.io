@@ -17,7 +17,7 @@ A complete listing of every track we've released -- and where to get it.
 
 <table>
 {% for track in site.data.songs %}
-  {% if not track.isolation_of %}
+  {% if track.isolation_of == blank %}
     <tr><td><a href="/discography/{{ track.id }}">{{ track.title }}</a></td></tr>
   {% endif %}
 {% endfor %}
