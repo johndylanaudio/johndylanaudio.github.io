@@ -1,8 +1,8 @@
-# This is the site for The Sungods. 
+# This is the source for the site johndylan.audio
 
 To edit anything you see here without having to 
 run anything locally, just visit our GitHub 
-repo at: [https://github.com/thesungods/thesungods.github.io](https://github.com/thesungods/thesungods.github.io)
+repo at: [https://github.com/thesungods/johndylanaudio.github.io](https://github.com/johndylanaudio/johndylanaudio.github.io)
 and click the pencil icon to edit stuff. Or, as you're browsing the site,
 click the GitHub icon in the footer. 
 
@@ -45,11 +45,11 @@ Install the GitHub Pages package, which includes Jekyll
 
 Clone our site
 
-	git clone https://github.com/thesungods/thesungods.github.io.git
+	git clone https://github.com/johndylanaudio/johndylanaudio.github.io.git
 
 Then, see it run locally:
 
-	cd thesungods.github.io
+	cd johndylanaudio.github.io
 	jekyll serve .
 
 Your copy of the site will then be viewable at: [http://0.0.0.0:4000](http://0.0.0.0:4000)
@@ -65,4 +65,4 @@ might help for Windows users.
 ## Thank you!
 
 Thank you for anything you can do to help us out! The Sungods is an
-[open-source music project](http://thesungods.co/opensource/) and we love you.
+[open-source music project](http://johndylan.audio/opensource/) and we love you.
