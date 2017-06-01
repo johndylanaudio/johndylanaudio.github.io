@@ -1,13 +1,13 @@
 ---
 title: Home
 description: If we lived here you'd be home by now. 
-image: "/images/pic01.jpg"
+image: /whitebalanced-klaus-voormann-sketch-of-john.jpg
 social: yes
 ---
 
 ## Welcome
 
-The Sungods are a band from San Francisco. This is their official site. If you're looking 
+John Dylan is a musician from San Francisco. If you're looking 
 to get acquainted quickly, try reading the [bio](/about) or watching some [videos](/videos)
 
 <script type="text/javascript" src="http://thesungods.tumblr.com/api/read/json"></script>
