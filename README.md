@@ -1,4 +1,4 @@
-# This is the source for the site johndylan.audio
+# This is the source for the site john.audio
 
 To edit anything you see here without having to 
 run anything locally, just visit our GitHub 
