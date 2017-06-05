@@ -64,5 +64,5 @@ might help for Windows users.
 
 ## Thank you!
 
-Thank you for anything you can do to help us out! The Sungods is an
-[open-source music project](http://johndylan.audio/opensource/) and we love you.
+Thank you for anything you can do to help us out! John's is an
+[open-source music project](http://johndylan.audio/opensource/) and he loves you.
