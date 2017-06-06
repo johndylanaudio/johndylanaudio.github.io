@@ -10,7 +10,7 @@ social: yes
 John Dylan is a musician from San Francisco. If you're looking 
 to get acquainted quickly, try reading the [bio](/about) or watching some [videos](/videos)
 
-<script type="text/javascript" src="http://thesungods.tumblr.com/api/read/json"></script>
+<script type="text/javascript" src="http://johndylanaudio.tumblr.com/api/read/json"></script>
 <script language="javascript">
 $(document).ready(function(){
   var output = new Array();
@@ -59,7 +59,7 @@ $(document).ready(function(){
     }
     if (doFooter)
     {
-      output.push('<p style="font-size: 12px">Posted to <a href="http://thesungods.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/thesungods">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fthesungods">Reblog Post</a></p>')
+      output.push('<p style="font-size: 12px">Posted to <a href="http://johndylanaudio.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/johndylanaudio">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fjohndylanaudio">Reblog Post</a></p>')
     }
   }
   $("#blogdiv").html(output.join("\n"));
