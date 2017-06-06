@@ -59,7 +59,7 @@ $(document).ready(function(){
     }
     if (doFooter)
     {
-      output.push('<p style="font-size: 12px">Posted to <a href="http://johndylanaudio.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/johndylanaudio">Follow on Tumblr</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fjohndylanaudio">Reblog Post</a> | <a href="https://johndylanaudio.tumblr.com/submit">Suggest Post</a></p>')
+      output.push('<p style="font-size: 12px">Posted to <a href="http://johndylanaudio.tumblr.com">tumblr</a> on: <a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['date'] + '</a> | <a href="http://www.tumblr.com/follow/johndylanaudio">Follow</a> | <a href="https://www.tumblr.com/reblog/' + tumblr_api_read['posts'][i]['id'] + '/' + tumblr_api_read['posts'][i]['reblog-key'] + '?redirect_to=%2Fblog%2Fjohndylanaudio">Reblog</a> | <a href="https://johndylanaudio.tumblr.com/submit">Submit Post</a></p>')
     }
   }
   $("#blogdiv").html(output.join("\n"));
