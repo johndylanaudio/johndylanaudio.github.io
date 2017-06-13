@@ -51,7 +51,7 @@ Then go grab any of the Open Source Music releases from our Bandcamp! All the re
 in 24-bit/96k lossless format, which is what the material was natively recorded in, so it should hold up
 well to whatever crazy manipulation you want to do to it. 
 
-[johndylan.bandcamp.com](http://johndylan.bandcamp.com)
+[**johndylan.bandcamp.com**](http://johndylan.bandcamp.com)
 
 As soon as you pick up any of the Open Source Music releases, these raw materials are included, and you're
 off to the races.
