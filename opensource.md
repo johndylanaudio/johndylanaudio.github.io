@@ -53,5 +53,7 @@ well to whatever crazy manipulation you want to do to it.
 
 [**johndylan.bandcamp.com**](http://johndylan.bandcamp.com)
 
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2444436466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://johndylan.bandcamp.com/album/open-source-music-volume-1-get-beyond">Open Source Music Volume 1: Get Beyond by John Dylan</a></iframe>
+
 As soon as you pick up any of the Open Source Music releases, these raw materials are included, and you're
 off to the races.
