@@ -17,20 +17,9 @@ for participation, we hope that we end up being a really fun band to be into.
 
 Okay, so what does that mean, and how is it actually different?
 
-Well, you are allowed to do all of the following:
+It means you can use the multitrack information that I take care to include with every release, to remix or samples my songs all you want, release the results, and even charge people for your work, without ever paying us anything. All I ask is for attribution. 
 
-- Remix or samples our songs all you want, release the results, and even charge people for your work,
-  without ever paying us anything.
-- Feel free to use the multitrack information that we take care to include with every release, or
-  download the literal multitrack masters (in Steinberg Cubase format), which should make
-  sampling and remixing much easier
-- Let us know about what you made, and [we'll sell it on our site for you, forwarding you the money](#submit-stuff).
-  Or just sell it on your site and don't worry about getting it on our site, and keep all the money.
-- Edit our site to include your ideas, contributions, merch, recordings, pictures, remixes, whatever.
-  It's on GitHub at https://github.com/thesungods/thesungods.github.io/
-- Record our shows and sell the recordings on our site
-- As you would with an open-source programming project, check out how it was made by listening to the
-  multitracks, or watching the video we took of the recording process for each song.
+If you wanna get all legalese about it, [read about the Creative Commons Attribution License](https://creativecommons.org/licenses/by/2.0/).
   
 ## Are there any restrictions on what I can do with your music?
 
@@ -48,15 +37,21 @@ Only two.
    if this ever impacts you; it's not our intention. But in this world of automated takedowns, we have
    to do this one thing to keep our uploads live. The best defense against all this is creating work
    that doesn't sound like our originals -- which we hope happens, anyway! Then, we hope, you can 
-   monetize away.
+   monetize away. Thinking of all this in a more fun/badass way: you're basically trying to outsmart robots
+   using only your powers of creativity.
 2. We reserve sync licensing rights. Synchronization licenses are granted to people who make visual
    works such as movies, TV shows, and games, and synchronize your music with the events onscreen. They
    are granted by artist permission only, and we want to keep it that way. If you have an offer for
    selling a sync license for a remix / sample of our stuff that you made, let us know and we'll work
    something out. 
    
-## Submit stuff
+## Okay I'm ready!
 
-You want us to sell something you made on our store? Cool! Just
-[fill out this form](https://docs.google.com/forms/d/1TI12r-L-9Vha2bnLbB9VJc8owg_xGVlVQDrCUTayHhM/formResponse)
-and we're on it.
+Then go grab any of the Open Source Music releases from our Bandcamp! All the remixables/sample-ables are
+in 24-bit/96k lossless format, which is what the material was natively recorded in, so it should hold up
+well to whatever crazy manipulation you want to do to it. 
+
+[johndylan.bandcamp.com](http://johndylan.bandcamp.com)
+
+As soon as you pick up any of the Open Source Music releases, these raw materials are included, and you're
+off to the races.
