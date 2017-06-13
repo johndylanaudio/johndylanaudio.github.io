@@ -3,6 +3,9 @@ title: Open Source Music
 description: An explanation.
 ---
 
+{% include jswidgets.html %}
+{{pagetoc}}
+
 ## The Open Source Music Approach
 
 The idea of Open Source Music is to just open up the whole process of making and releasing music,
@@ -43,7 +46,8 @@ Only two.
    using only your powers of creativity, and your reward is a chance to monetize!
 2. I reserve sync licensing rights. Synchronization licenses are granted to people who make visual
    works such as movies, TV shows, and games, and synchronize your music with the events onscreen. They
-   are granted by artist permission only, and I want to keep it that way.
+   are granted by artist permission only, and I want to keep it that way. [Get in touch with me](/contact) if you
+   want to use my music in your visual work.
    
 ## Okay I'm ready!
 
