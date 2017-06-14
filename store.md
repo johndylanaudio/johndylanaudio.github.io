@@ -12,51 +12,17 @@ nosocial: true
 
 We currently have the following music releases for sale. 
 
-<table>
-{% for release in site.data.appearances %}<tr><td><a href="/discography/{{ release.id }}">{{ release.title }}</a></td><td>TBD</td></tr>{% endfor %}
-</table>
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=2444436466/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://johndylan.bandcamp.com/album/open-source-music-volume-1-get-beyond">Open Source Music Volume 1: Get Beyond by John Dylan</a></iframe>
 
-## Multi-track masters
+## Merch
 
-You can purchase the multi-track masters for our music. These have every track isolated, and also
-have the effects channels and buss channels isolated. They even include the MIDI files that were
-captured from V-Drums and keyboards. As good as sitting at the DAW with John; these are all
-zero-snapped WAVs that include notes on what the bpm of the song is, and how many beats click
-by before the song starts. Import into your fave mixing environment, and start ripping it up.
+### "Get Beyond" T-shirt
 
-<!-- table>
-  <tr>
-    <td>Someone to Lose You</td>
-    <td><a href="https://sellfy.com/p/oNuz/" target="_blank">$0.99 USD</a></td>
-  </tr>
-  <tr>
-    <td>(If I Can Learn) To Love Myself</td>
-    <td><a href="https://sellfy.com/p/62vQ/" target="_blank">$0.99 USD</a></td>
-  </tr>
-</table -->
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B071GPKB6M&asins=B071GPKB6M&linkId=9e291e4c87be234e7a1498e6f7ba45f1&show_border=true&link_opens_in_new_window=true"></iframe>
 
-Note: All masters were recorded in 24-bit/96khz.
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B0721NPQR8&asins=B0721NPQR8&linkId=e21b16422bf6483b07069bc0bcfa89c0&show_border=true&link_opens_in_new_window=true"></iframe>
 
-## Deluxe Editions
-
-Deluxe editions of our singles include the following:
-
-1. All A-side/B-side songs in 24-bit/96kHz lossless FLAC format
-2. All of the bonus tracks from that single in lossless FLAC format
-3. The [multi-track masters](#multi-track-masters) for the A-side/B-side songs
-4. MP3 files of all of the rough mixes we ever did for the A-side/B-side songs on that single, so you can see how the song progressed. **(Exclusive to Deluxe Editions)**
-5. Digital copies of the artwork masters for that single. **(Exclusive to Deluxe Editions)** 
-
-[SELLFY LINK]
-
-## Sell Your Stuff!
-
-Do you have some merch you'd like to sell on our site? You can [contact us](/contact),
-fill out [the form that lets you add stuff to our store](https://docs.google.com/forms/d/1TI12r-L-9Vha2bnLbB9VJc8owg_xGVlVQDrCUTayHhM/viewform),
-or just send us a pull-request on GitHub with edits that add your wares. We would love
-to help!
-
-## Pre-Sungods projects
+## John's previous music projects
 
 {% for release in site.data.oldreleases %}
 {% if release.cdbabywidget %}<div style="max-width:600px;max-height:645px;min-width:180px;"><div style="position: relative;height: 0;overflow: hidden;padding-bottom:100%;padding-top:30px;"><iframe name="square" style="position:absolute;top:0px;left:0px;width:100%;height:100%;border:0px;" src="http://widget.cdbaby.com/{{ release.cdbabywidget }}/square/light/opaque"></iframe></div></div>{% endif %}
