@@ -46,7 +46,7 @@ Only two.
    using only your powers of creativity, and your reward is a chance to monetize!
 2. I reserve sync licensing rights. Synchronization licenses are granted to people who make visual
    works such as movies, TV shows, and games, and synchronize your music with the events onscreen. They
-   are granted by artist permission only, and I want to keep it that way. [Get in touch with me](/contact) if you
+   are granted by artist permission only, and I want to keep it that way. Get in touch with me if you
    want to use my music in your visual work.
    
 ## Okay I'm ready!
