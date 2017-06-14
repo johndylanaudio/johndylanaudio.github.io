@@ -51,7 +51,7 @@ Only two.
    
 ## Okay I'm ready!
 
-Then go grab any of the Open Source Music releases from [my Bandcamp](http://johndylan.bandcamp.com), or just scrolling down below and checking them out! All the remixables/sample-ables are
+Then go grab any of the Open Source Music releases from [my Bandcamp](http://johndylan.bandcamp.com), or just scrol down below and check them out! All the remixables/sampleables are
 in 24-bit/96k lossless format, which is what the material was natively recorded in, so it should hold up
 well to whatever crazy manipulation you want to do to it. 
 
