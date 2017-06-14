@@ -4,10 +4,6 @@ description: Because even GY!BE sells t-shirts.
 nosocial: true
 ---
 
-## Store
-
-{% include jswidgets.html %}{{ pagetoc }}
-
 ## Music
 
 ### Open Source Music Volume 1: Get Beyond
