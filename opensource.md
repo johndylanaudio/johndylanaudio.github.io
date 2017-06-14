@@ -20,16 +20,17 @@ for participation, I hope to be a fun artist to follow around.
 
 Okay, so what does that mean, and how is it actually different?
 
-It means you can use the multitrack information that I take care to include with every release, to remix or samples my songs all you want, release the results, and even charge people for your work, without ever paying us anything. All I ask is for attribution. 
+It means you can use the multitrack information that I take care to include with every release, to remix or samples my songs all you want, release the results, and even charge people for your work, without ever paying me royalties or getting some specific license to do so. All I ask is for an attribution/credit/nod whenever you put your stuff out there. 
 
-If you wanna get all legalese about it, [read about the Creative Commons Attribution License](https://creativecommons.org/licenses/by/2.0/).
+If you wanna get all legalese about it, [read about the Creative Commons Attribution License](https://creativecommons.org/licenses/by/2.0/) that this idea is based on.
   
 ## Are there any restrictions on what I can do with your music?
 
 Only two. 
 
-1. YouTube et al monetization might be problematic. I *have to* register our music with Rumblefish,
-   a service which monitors sites like YouTube for uploads that have our music in them. That's because
+1. YouTube monetization of your works might be problematic, depending on how unique your new work sounds.
+   It has to trick robots into not thinking it's the same. See, I *have to* register my music with Rumblefish,
+   a service which monitors YouTube for uploads that have my music in them. That's because
    if I didn't, then when *you* uploaded your remix or derivative work, *my* uploads could be blocked
    in certain countries, blocked for monetization, or even taken down altogether. It just takes one person
    trying to monetize their stuff using a service like Rumblefish for this to happen.
