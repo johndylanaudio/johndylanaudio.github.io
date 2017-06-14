@@ -37,13 +37,13 @@ Only two.
    Please, hear me now: I will never ever file a copyright claim against you for uploading a remix or
    sample of my stuff, ever. The worst case scenario I'm talking about here is that Rumblefish
    may detect a match and take over the monetization for your upload. I am so sorry
-   if this ever impacts you; it's not my intention. But in this world of automated takedowns, we have
-   to do this one thing to keep our uploads live. The best defense against all this is creating work
-   that doesn't sound like our originals -- which we hope happens, anyway! Then, we hope, you can 
+   if this ever impacts you; it's not my intention. But in this world of automated takedowns, I have
+   to do this one thing to keep my uploads live. The best defense against all this is creating work
+   that doesn't sound like my originals -- which I hope happens, anyway! Then, I also hope, you can 
    monetize away. 
    
    Thinking of all this in a more fun/badass way: you're basically trying to outsmart robots
-   using only your powers of creativity, and your reward is a chance to monetize!
+   using only your powers of creativity.
 2. I reserve sync licensing rights. Synchronization licenses are granted to people who make visual
    works such as movies, TV shows, and games, and synchronize your music with the events onscreen. They
    are granted by artist permission only, and I want to keep it that way. Get in touch with me if you
