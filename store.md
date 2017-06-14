@@ -25,7 +25,7 @@ Members of the John Dylan Fan Club for Sensitive People receive:
 
 - A steady diet of exclusive tracks early demos/takes, rehearsal recordings, live recordings, interviews, fan-club-only messages, and special recordings
 - Free copy of "Open Source Music Volume 1: Get Beyond" when joining
-- 15% off all general merch
+- 15% off all general merch bought through Bandcamp
 - Access to fan club-only merch
 - All the new music I make streaming instantly on your mobile device via the free Bandcamp app, and also available as a high-quality download, for as long as you're a member.
 - Fan Club Exclusive album: Inside "Get Beyond," covering the evolution of the song from voice memo, to demo, to rough mixes
