@@ -2,14 +2,15 @@
 title: Videos
 description: Talkies
 ---
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zpy8NH6g228?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ## Pictures from @johndylanaudio on Instagram
 
 <!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/3f376ce6c82e505d94e78a2bed7349e1.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
-## Videos
 
-Coming soon...
 
 ## John's YouTube music playlists
 
