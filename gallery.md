@@ -4,7 +4,9 @@ description: Talkies
 ---
 ## Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zpy8NH6g228?ecver=1" frameborder="0" allowfullscreen></iframe>
+### Get Beyond
+
+<iframe width="900" height="394" src="https://www.youtube.com/embed/zpy8NH6g228?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ## Pictures from @johndylanaudio on Instagram
 
