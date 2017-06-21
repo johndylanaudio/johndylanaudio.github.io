@@ -46,9 +46,19 @@ $(document).ready(function(){
         doFooter=true;
       }
     }
+    else if (tumblr_api_read['posts'][i]["type"]=="link")
+    {
+      // audio post
+      if (tumblr_api_read['posts'][i]['link-text'].indexOf("blockquote") < 0)
+      {
+        output.push("<a href=" + tumblr_api_read['posts'][i]['link-url'] + ">" + tumblr_api_read['posts'][i]['link-text'] + "</a>");
+        output.push("<p>" + tumblr_api_read['posts'][i]['link-description'] + "</p>")
+        doFooter=true;
+      }
+    }
     else
     {
-      // regular post
+      // te post
       if (tumblr_api_read['posts'][i]['regular-body'].indexOf("blockquote")<0)
       {
         output.push('<h3><a href="' + tumblr_api_read['posts'][i]['url-with-slug'] + '">' + tumblr_api_read['posts'][i]['regular-title'] + '</a></h3>');
