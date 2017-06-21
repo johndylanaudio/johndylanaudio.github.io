@@ -52,7 +52,7 @@ $(document).ready(function(){
       if (tumblr_api_read['posts'][i]['link-text'].indexOf("blockquote") < 0)
       {
         output.push("<a href=" + tumblr_api_read['posts'][i]['link-url'] + ">" + tumblr_api_read['posts'][i]['link-text'] + "</a>");
-        output.push("<p>" + tumblr_api_read['posts'][i]['link-description'] + "</p>")
+        output.push(tumblr_api_read['posts'][i]['link-description']);
         doFooter=true;
       }
     }
