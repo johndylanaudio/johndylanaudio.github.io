@@ -43,12 +43,12 @@ T-shirts available for men, women, and kids.
 There are both light fabric and dark fabric shirts, of various colors.
 Orders fulfilled by Amazon.
 
-<table><tr><td>
+<table><tr><td align="center">
 <img src="http://i.imgur.com/fuKKUEc.png" style="max-width: 200px">
-<p><a href="http://amzn.to/2tpNTms">$25 on Amazon</a></p>
-</td><td>
+<p><a href="http://amzn.to/2tpNTms">Dark fabric: $25 on Amazon</a></p>
+</td><td align="center">
 <img src="http://i.imgur.com/poj1TD4.png" style="max-width: 200px">
-<p><a href="http://amzn.to/2tuW3L3">$25 on Amazon</a></p>
+<p><a href="http://amzn.to/2tuW3L3">Light fabric: $25 on Amazon</a></p>
 </td></tr></table>
 
 ## John's previous music projects
