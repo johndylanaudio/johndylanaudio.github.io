@@ -44,17 +44,11 @@ There are both light fabric and dark fabric shirts, of various colors.
 Orders fulfilled by Amazon.
 
 <table><tr><td>
-
-![dark fabric t-shirt](http://i.imgur.com/fuKKUEc.png){: style="max-width: 200px" }
-
-[$25 on Amazon](http://amzn.to/2tpNTms)
-
+<img src="http://i.imgur.com/fuKKUEc.png" style="max-width: 200px">
+<p><a href="http://amzn.to/2tpNTms">$25 on Amazon</a></p>
 </td><td>
-
-![light fabric t-shirt](http://i.imgur.com/poj1TD4.png){: style="max-width: 200px" }
-
-[$25 on Amazon](http://amzn.to/2tuW3L3)
-
+<img src="http://i.imgur.com/poj1TD4.png" style="max-width: 200px">
+<p><a href="http://amzn.to/2tuW3L3">$25 on Amazon</a></p>
 </td></tr></table>
 
 ## John's previous music projects
