@@ -45,12 +45,14 @@ Orders fulfilled by Amazon.
 
 #### Dark fabric
 
-![dark fabric t-shirt](http://i.imgur.com/fuKKUEc.png)
+![dark fabric t-shirt](http://i.imgur.com/fuKKUEc.png){: style="max-width: 200px" }
+
 [$25 on Amazon](http://amzn.to/2tpNTms)
 
 #### Light Fabric
 
-![light fabric t-shirt](http://i.imgur.com/poj1TD4.png)
+![light fabric t-shirt](http://i.imgur.com/poj1TD4.png){: style="max-width: 200px" }
+
 [$25 on Amazon](http://amzn.to/2tuW3L3)
 
 ## John's previous music projects
