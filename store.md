@@ -43,17 +43,15 @@ T-shirts available for men, women, and kids.
 There are both light fabric and dark fabric shirts, of various colors.
 Orders fulfilled by Amazon.
 
-Note: If you have an ad-blocker, you can't see the embeds from Amazon, so
-just follow [this link](http://amzn.to/2sTL9xL) for dark-colored shirts and
-[this link](http://amzn.to/2rA7IDz) for light-colored shirts.
+#### Dark fabric
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B071KHGMQX&asins=B071KHGMQX&linkId=664e7f7d7964a063f4c20e4527e58f5e&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B071GPKB6M&asins=B071GPKB6M&linkId=81146c90f502ee07bc1a40505d6e79b9&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B0721VMWZ3&asins=B0721VMWZ3&linkId=274447d85642bde130746e14c25a93a6&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B072R1RG2P&asins=B072R1RG2P&linkId=5cd492308df7efaf339b3c75f5c40c8a&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B071XFFM2W&asins=B071XFFM2W&linkId=a0ab58d7eaf1774fe1d681a823c8c1bc&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B072R2Z1VJ&asins=B072R2Z1VJ&linkId=79d607640a411c179ffe093ef2c70cea&show_border=true&link_opens_in_new_window=true"></iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=terrene-20&marketplace=amazon&region=US&placement=B071GX4G8S&asins=B071GX4G8S&linkId=219ac8b53fafb914d99b22e565be5092&show_border=true&link_opens_in_new_window=true"></iframe>
+![dark fabric t-shirt](http://i.imgur.com/fuKKUEc.png)
+[$25 on Amazon](http://amzn.to/2tpNTms)
+
+#### Light Fabric
+
+![light fabric t-shirt](http://i.imgur.com/poj1TD4.png)
+[$25 on Amazon](http://amzn.to/2tuW3L3)
 
 ## John's previous music projects
 
