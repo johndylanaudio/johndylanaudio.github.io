@@ -1,4 +1,34 @@
 - release:
+  id: 04
+  artist: "John Dylan"
+  title: "Open Source Music Volume 2: If I Want You To"
+  year: "2017"
+  label: "John Dylan"
+  producer: "John Dylan"
+  cdbabywidget: 4b5ab8a7-61a8-45fd-9666-1eefdc0151a5
+  amazon: http://amzn.to/2v3fycW
+  bandcamp: https://johndylan.bandcamp.com/album/open-source-music-volume-2-if-i-want-you-to
+  google: https://play.google.com/store/music/album/John_Dylan_Open_Source_Music_Volume_2_If_I_Want_Yo?id=Br7l4uhar2p5cynf3s7tfutzcki
+  itunes: https://itunes.apple.com/us/album/open-source-music-volume-2-if-i-want-you-to/id1265215022
+- release:
+  hidden: true
+  description: |
+    This is the first release of the "Open Source Music" series by John Dylan, and its 75 tracks include:
+
+    - "Get Beyond," the first single from *Peripheral Drift Illusion*.
+    - Multi-track isolations from "Get Beyond" that you are free to sample/use in remixes, royalty-free
+    - The Instrumental/Karaoke version of Get Beyond, and the "Radio Edit" version (with a truncated/fade-out ending)
+    - A 60+ track montage of John's entire recording career, starting from the very first bits in 1993 and covering up to the beginning of work on *Peripheral Drift Illusion* in 2013.
+- release:
+  id: 05
+  artist: "John Dylan"
+  fanclubonly: true
+  title: "Fan Club Exclusive: Inside Get Beyond"
+  bandcamp: https://johndylan.bandcamp.com/album/fan-club-exclusive-inside-get-beyond
+  image: https://f4.bcbits.com/img/a3286807522_16.jpg
+  description: This 18-track fan club exclusive chronicles the evolution of "Get Beyond," which began life as a riff and a title, "Kashmiri, Queen De La Sahara," then became a pop track called "You Can Get Beyond," before merging with a separate song called "What's Wrong?" and becoming the multi-part odyssey known as "Get Beyond." All of these songs are provided, plus you'll even hear the unfettered musings about "You Can Get Beyond" John dictated into his voice recorder (possibly while a bit stoned), imagining what it should sound like. You'll also hear the original demos, the test take from when John was thinking he would play a live drum set on the album, and all the rough mixes of the album version.
+- release:
+  old: true
   id: 01
   artist: "Terrene"
   title: "The Indifferent Universe"
@@ -6,7 +36,11 @@
   label: "Wax Orchard"
   producer: "Phil Ek, John Dylan"
   cdbabywidget: 66185e05-2869-4ef0-8819-0e60c2f6bfda
+  amazon: http://amzn.to/2voj4j2
+  google: https://play.google.com/store/music/album/Terrene_The_Indifferent_Universe?id=Blevxmcytitke7ahunvg3xz26eu
+  itunes: https://itunes.apple.com/us/album/the-indifferent-universe-2011-version/id490939086
 - release:
+  old: true
   id: 02
   artist: "Mars Accelerator"
   title: "Clouds For Your Y-Axis"
@@ -14,7 +48,11 @@
   label: "Mars Accelerator"
   producer: "Mars Accelerator"
   cdbabywidget: d5032e79-1f65-4d10-a0e5-892e133b21d9
+  amazon: http://amzn.to/2htHTo9
+  google: https://play.google.com/store/music/album/Mars_Accelerator_Clouds_for_Your_Y_axis?id=Blrq3qpvpsxr676uet5r6vxuyni
+  itunes: https://itunes.apple.com/us/album/clouds-for-your-y-axis/id321771466
 - release:
+  old: true
   id: 03
   artist: "Ocasek"
   title: "Cinematic 1996-1997"
@@ -22,3 +60,6 @@
   label: "Digitalis Industries"
   producer: "John Dylan, Brad Rose"
   cdbabywidget: 22953ada-ae82-4a46-a8c2-ae7ad07a8d50
+  google: https://play.google.com/store/music/album/Ocasek_Cinematic_1996_1997?id=B2rp6nrwuoa33afebtdz4h44z64
+  amazon: http://amzn.to/2uqsqGs
+  itunes: https://itunes.apple.com/us/album/cinematic-1996-1997/id320833591
