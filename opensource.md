@@ -35,13 +35,9 @@ want to use my music in your visual work.
    
 ## Okay I'm ready!
 
-Then go grab any of the Open Source Music releases from [my Bandcamp](http://johndylan.bandcamp.com), or just scroll down below and check them out! All the remixables/sampleables are available via Bandcamp
+Then go grab any of the Open Source Music releases from [the Store](/store)! All the remixables/sampleables are available via Bandcamp
 in 24-bit/96k lossless format, which is what the material was natively recorded in, so it should hold up
 well to whatever crazy manipulation you want to do to it. 
 
 As soon as you pick up any of the Open Source Music releases, these raw materials are included, and you're
 off to the races.
-
-### Open Source Volume 1: Get Beyond
-
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=2444436466/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://johndylan.bandcamp.com/album/open-source-music-volume-1-get-beyond">Open Source Music Volume 1: Get Beyond by John Dylan</a></iframe>
