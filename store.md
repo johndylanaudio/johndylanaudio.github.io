@@ -13,6 +13,7 @@ nosocial: true
 {% if release.fanclubonly == true %}<a href="{{ release.bandcamp }}" target="_blank"><img src="{{ release.image }}" style="max-width:100%"></a>{% endif %}
 </td>
 <td width="50%" style="vertical-align: top">
+{% if release.youtubeembed %}<iframe width="400" height="225" src="{{ release.youtubeembed }}" frameborder="0" allowfullscreen></iframe>{% endif %}
 {% if release.description %}<p>{{ release.description | markdownify }}</p>{% endif %}
 <ul>
 {% if release.amazon %}<li><a href="{{ release.amazon }}" target="_blank">Amazon</a><br></li>{% endif %}
