@@ -77,10 +77,29 @@
   year: "2007 (CD Version), 2011 (Digital Version)"
   label: "Wax Orchard"
   producer: "Phil Ek, John Dylan"
+  youtubeembed: https://www.youtube.com/embed/3CiTNm8yLTE?ecver=1
   cdbabywidget: 66185e05-2869-4ef0-8819-0e60c2f6bfda
+  cdbaby: https://store.cdbaby.com/cd/terrene3
+  stats: "Released: 2007 - 10 songs - 42min"
+  bandcamp: https://terrene.bandcamp.com/
   amazon: http://amzn.to/2voj4j2
   google: https://play.google.com/store/music/album/Terrene_The_Indifferent_Universe?id=Blevxmcytitke7ahunvg3xz26eu
   itunes: https://itunes.apple.com/us/album/the-indifferent-universe-2011-version/id490939086
+  description: |
+    The second album from my old band Terrene. A decidedly more poppy affair than my solo stuff. Produced by
+    Phil Ek (Built to Spill, The Shins, Band of Horses). Yielded the singles "Unwelcome"
+    and "Fifty-One" and a 6-week North America tour. The video for Unwelcome, directed by the Nee Brothers
+    and starring Adam Nee (Drunk History), won "Best Indie Music Video 2008" in the Yahoo! Video Awards,
+    which are no longer a thing.
+  pressclips: |
+    "An exquisite work of art... The word "terrene" may mean "of or relating to the earth" but Terrene, the band, sounds anything but earthly. The echoic guitars chime beautifully with soaring harmonies whirling in from all directions, and every sound is obscured lightly by a lucid haze of reverb... Attempts to pigeonhole or compare Terrene's sound with established genres and artists usually result only in Frankensteinian conglomerations of eclectic bands -- a tooth of Sonic Youth, a couple toes of Sigur Ros, a Flaming Lip, maybe a few Blonde Redhead hairs sticking out somewhere, etc. -- but these stitched generalizations do no justice..."
+    -- Three Imaginary Girls
+
+    Free-forming, melodious songs that feel as if they're barely planted on Terra-firma...They have something going on unique unto themselves...
+    --Lost at Sea
+
+    If only a band existed that distilled the best bits from the Shins, The Apples in Stereo and Built to Spill and in the process arrived at a perfect sonic constellation. Well, Terrene's new album may just have arrived at this superlative juncture.
+    --mp3hugger
 - release:
   old: true
   id: 02
@@ -90,9 +109,15 @@
   label: "Mars Accelerator"
   producer: "Mars Accelerator"
   cdbabywidget: d5032e79-1f65-4d10-a0e5-892e133b21d9
+  cdbaby: https://store.cdbaby.com/cd/marsaccelerator
+  stats: "Released: 2008 - 13 songs - 54min"
   amazon: http://amzn.to/2htHTo9
   google: https://play.google.com/store/music/album/Mars_Accelerator_Clouds_for_Your_Y_axis?id=Blrq3qpvpsxr676uet5r6vxuyni
   itunes: https://itunes.apple.com/us/album/clouds-for-your-y-axis/id321771466
+  description: |
+    It's the only Mars Accelerator album that is digitally available, so enjoy! This band has been
+    called "math-rock" but it's really just cerebrally-focused, unpredictable guitar porn that I absolutely
+    love.
 - release:
   old: true
   id: 03
@@ -102,6 +127,14 @@
   label: "Digitalis Industries"
   producer: "John Dylan, Brad Rose"
   cdbabywidget: 22953ada-ae82-4a46-a8c2-ae7ad07a8d50
+  stats: "Released: 2005 - 18 songs - 48min"
+  cdbaby: https://store.cdbaby.com/cd/ocasek
   google: https://play.google.com/store/music/album/Ocasek_Cinematic_1996_1997?id=B2rp6nrwuoa33afebtdz4h44z64
   amazon: http://amzn.to/2uqsqGs
   itunes: https://itunes.apple.com/us/album/cinematic-1996-1997/id320833591
+  description: |
+    Ocasek was a duo that I was in as a teenager living in Oklahoma, with Brad Rose
+    (Altar Eagle, Foxy Digitalis, Digitalis Industries). Psych-rock/shoegaze, hazy folk, futuristic synth folk,
+    and other ecclectic approaches to songs are abound.
+
+    You may enjoy if you can get past our "awkward-phase" vocals.
