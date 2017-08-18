@@ -5,21 +5,62 @@
   year: "2017"
   label: "John Dylan"
   producer: "John Dylan"
+  stats: "Released: August 1, 2017 - 32 songs - 1hr 55min"
   youtubeembed: https://www.youtube.com/embed/M8rIo3rmlC0?list=PLU_uuWRwU41-mJIUTYChGz3dLYNhTjNvK?ecver=1
   cdbabywidget: 4b5ab8a7-61a8-45fd-9666-1eefdc0151a5
   amazon: http://amzn.to/2v3fycW
   bandcamp: https://johndylan.bandcamp.com/album/open-source-music-volume-2-if-i-want-you-to
   google: https://play.google.com/store/music/album/John_Dylan_Open_Source_Music_Volume_2_If_I_Want_Yo?id=Br7l4uhar2p5cynf3s7tfutzcki
   itunes: https://itunes.apple.com/us/album/open-source-music-volume-2-if-i-want-you-to/id1265215022
-- release:
-  hidden: true
+  cdbaby: https://store.cdbaby.com/cd/johndylan2
   description: |
-    This is the first release of the "Open Source Music" series by John Dylan, and its 75 tracks include:
+    Features multi-track isolations (stems)
+    from "If I Want You To" that you are free to sample/use in remixes royalty-free, and  no fewer
+    than 22 full-length b-sides, capturing John's period of turbulent expressionist recordings and
+    early post-rock/dreampop songs.
+  pressclips: |
+    "A spacey mix of shoegaze and pop with distinct psych influences. A trippy guitar riff floats above a steady bass line and energetic drum beat, reminiscent of classic tunes with a modern twist."
+    -- [Earmilk](https://earmilk.com/2017/08/04/john-dylan-releases-new-psychy-tune-if-i-want-you-to-from-upcoming-album-peripheral-drift-illusion/#kFueKqbFTQQQQKe0.99)
+
+    "John’s light-as-air vocals float through the kaleidoscopic static, as walls of fuzz invade the song and drag it to much darker ground. However, this is before the song’s outro, a maelstrom of swampy effects and the intensified kick drum take things up a notch, showing a considered and intelligent structural progression from the talented songwriter."
+    -- [Jammerzine](https://jammerzine.com/dream-pop-experimentalist-john-dylan-meditates-on-privilege-and-power-dynamics-in-new-single/)
+
+    "Song of the day for August 8, 2017. A graceful slice of melancholic indie rock. Sublime."
+    --[Wee World](https://weeclaire.com/2017/08/08/a-song-a-day-john-dylan-if-i-want-you-to/)
+- release:
+  id: 04
+  artist: "John Dylan"
+  title: "Open Source Music Volume 1: Get Beyond"
+  year: "2017"
+  label: "John Dylan"
+  producer: "John Dylan"
+  fanclubonly: true
+  image: https://f4.bcbits.com/img/a2125464603_10.jpg
+  stats: "Released: July 1, 2017 - 75 songs - 1hr 54min"
+  youtubeembed: https://www.youtube.com/embed/zpy8NH6g228?ecver=1
+  #cdbabywidget: 4b5ab8a7-61a8-45fd-9666-1eefdc0151a5
+  bandcamp: https://johndylan.bandcamp.com/album/open-source-music-volume-1-get-beyond
+  google: https://play.google.com/store/music/album/John_Dylan_Open_Source_Music_Volume_1_Get_Beyond?id=Ba4g5qe4lyvwqjvsxon2zamkv64
+  itunes: https://itunes.apple.com/us/album/open-source-music-volume-1-get-beyond/id1271883289
+  description: |
+    This is the first release of the "Open Source Music" series, and its 75 tracks include:
 
     - "Get Beyond," the first single from *Peripheral Drift Illusion*.
-    - Multi-track isolations from "Get Beyond" that you are free to sample/use in remixes, royalty-free
-    - The Instrumental/Karaoke version of Get Beyond, and the "Radio Edit" version (with a truncated/fade-out ending)
-    - A 60+ track montage of John's entire recording career, starting from the very first bits in 1993 and covering up to the beginning of work on *Peripheral Drift Illusion* in 2013.
+    - Multi-track isolations (stems) from "Get Beyond" that you are free to sample/use in remixes, royalty-free
+    - A 60+ track montage of John's entire life in music
+  pressclips: |
+    "Spill Track of the Day for June 20, 2017. ...[A] spacey, effects-laden piece of shoegaze-pop... Dreamy vocals combine with a bright, bouncing guitar riff that drifts effortlessly over a wah-fuelled bass line, before wading through a sludge of distortion. As a result, John takes us on a sonic odyssey that stops off at almost every genre and style on the way."
+    -- [Spill Magazine](http://spillmagazine.com/spill-track-day-john-dylan-get-beyond/)
+
+    "To restrict John Dylan's style to a singular genre would be an impossible task that would not nearly give John's sound the credit and recognition that it deserves."
+    -- [Frequency 21](https://f21mag.com/2017/06/23/john-dylan-gives-hint-of-new-album-with-get-beyond/)
+
+    "‘Get beyond’ is our first glimpse into his upcoming album: ‘Peripheral Drift Illusion’, and what a beautiful glimpse it is. From the outset we are lifted by electronic waves of gentle guitar tones supported by the catchy rhythmic rumble of drums and bass. The electronic-funk introduction, with its psychedelic undertone, carries us to John Dylan’s expert, intricate and soul-filled guitar skills, serving to build that unique sound that the track boasts.
+    These enchanting isolated guitar notes perfectly introduce us to John’s excellent falsetto vocals, which are then once again accompanied by the earth-rumbling bass and drums, creating a sound that you can’t help but love. The funk of the bass interlaced with electronic, dreamy vocals and lyrics creates a stunning, unique sound.."
+    --[Tee-Total Guitar](https://teetotalguitar.wordpress.com/2017/07/05/get-beyond-the-dream-like-euphoric-music-trip-by-john-dylan/)
+
+    "‘Get Beyond’ at first can seem like an overwhelming combination of sounds before blending into dreamy vocals with a bouncing guitar riff drifting over a wah-fuelled bass line. The transition is a perfect example of how the song takes the listener on a sonic odyssey that makes a stop at many genre styles along the way. Due to this it would be criminal to confine John to one single band or artist in comparison even as it’s obvious where his inspiration shines from. "
+    --[Music News Today](https://musicnews2dayblog.wordpress.com/2017/07/09/travel-on-a-sonic-odyssey-with-john-dylan-and-his-new-single-get-beyond/)
 - release:
   id: 05
   artist: "John Dylan"
