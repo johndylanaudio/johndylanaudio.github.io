@@ -23,3 +23,17 @@ YouTube Analytics API	../auth/youtubepartner	View and manage your assets and ass
 ```
 
 **Be very, very sure about this before you proceed!**
+
+## Privacy Policy
+
+There is no server storing any details about your activity; the scopes granted are purely necessary for the app to function. Our privacy policy is simple: We don't collect your data, we don't store your data, and we're not interested in your data.
+
+That's the TL;DR, but we do have a more complete statement reiterating this here: https://youtube-upload.flycricket.io/privacy.html
+
+## Terms of Service
+
+- We are not liable for any damage done to your YouTube account as a result of the use of this app. This includes but is not limited to errors in the code that damage data, upload mangled video content, corrupt acccount data, or corrupt analytics data.
+- Use this code at your own risk
+- All we're trying to do is automate video uploading; we're not interested in collecting anything from you or monetizing this service
+
+That's the TL;DR. A complete Terms of Service is available here: https://www.termsfeed.com/terms-service/2f99a46837f4c2d7ab90008e20d8ffa7
